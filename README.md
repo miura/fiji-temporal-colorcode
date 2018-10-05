@@ -7,6 +7,12 @@ The downstream clone of Fiji Temporal Color Coder, for adding DOI to the code.
 
 [CMCI page](http://wiki.cmci.info/downloads/timeseriescolorcoder)
 
+## Citation
+
+Please use the citation template shown in the Zenodo page linked below. 
+
+[Zenodo temporal colorcode](https://zenodo.org/account/settings/github/repository/miura/fiji-temporal-colorcode)
+
 ## Author
 
 - Kota Miura
