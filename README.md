@@ -1,5 +1,6 @@
 # Temporal-colorcode
-The downstream clone of Fiji Temporal Color Coder, for adding DOI to the code. 
+
+The downstream clone of Fiji Temporal Color Coder for stamping a DOI to the code. For your pull request, please do so to the Fiji repo [fiji/fiji](https://github.com/fiji/fiji/)
 
 ## Website
 
@@ -13,6 +14,12 @@ Please use the citation template shown in the Zenodo page linked below.
 
 [Zenodo temporal colorcode](https://zenodo.org/account/settings/github/repository/miura/fiji-temporal-colorcode)
 
+For example:
+
+```
+Kota Miura, Johannes Schindelin, Nicolas Mei, & Gabriel Landing. (2018, October 5). miura/fiji-temporal-colorcode 2.0.0 (Version 2.0.0). Zenodo. http://doi.org/10.5281/zenodo.1446432
+```
+
 ## Author
 
 - Kota Miura
@@ -21,6 +28,7 @@ Please use the citation template shown in the Zenodo page linked below.
 
 - Johannes Schindelin
 - Nicolas Mei
+- Gabriel Landing
 
 ## License
 
