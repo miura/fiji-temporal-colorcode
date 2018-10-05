@@ -1,2 +1,2 @@
 # fiji-temporal-colorcode
-Downstream clone of Fiji Temporal COlor Coder
+The downstream clone of Fiji Temporal Color Coder, for adding DOI to the code. 
